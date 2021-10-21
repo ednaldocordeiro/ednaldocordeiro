@@ -1,8 +1,6 @@
 ## Olá👋, sou o Ednaldo Cordeiro
 
-- 🔭 Eu estou trabalhando em um projeto da escola
-- 🌱 Eu estou estudando JavaScript
-- 👯 IFazendo uma colaboração com @Yta-ux
+- 🌱 I'm studying JS
 
 <div>
   <a href="https://github.com/Ednaldo-byte">
