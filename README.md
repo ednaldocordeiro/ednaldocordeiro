@@ -1,7 +1,5 @@
 ## Olá👋, sou o Ednaldo Cordeiro
 
-- 🌱 I'm studying JS
-
 <div>
   <a href="https://github.com/Ednaldo-byte">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ednaldo-byte&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
