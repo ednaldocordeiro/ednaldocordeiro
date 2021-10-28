@@ -1,4 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ednaldo Cordeiro
+## Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ednaldo
 
 <div>
   <a href="https://github.com/Ednaldo-byte">
@@ -7,17 +7,17 @@
 </div>
   
 ## 🛠 &nbsp;Tech Stack
-<div style="display: inline_block">
-  <img align="center" alt="Ed-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ed-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ed-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div>
+  <img align="center" alt="Ed-Js" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ed-HTML" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ed-CSS" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
 ## :person_curly_hair: &nbsp;Social Links
 
 <div align="left" style="background:yellow">
 <a href="https://twitter.com/ed_byte" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-ed_byte-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center"  src="https://img.shields.io/badge/-ed_byte-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://instagram.com/ednaldo_cordeiro_" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-ednaldo_cordeiro_-05122A?style=flat&logo=instagram" alt="instagram"/>
