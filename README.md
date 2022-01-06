@@ -16,9 +16,6 @@
 ## :person_curly_hair: &nbsp;Social Links
 
 <div align="left" style="background:yellow">
-<a href="https://twitter.com/ed_byte" target="_blank">
-  <img align="center"  src="https://img.shields.io/badge/-ed_byte-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
 <a href="https://instagram.com/ednaldo_cordeiro_" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-ednaldo_cordeiro_-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
