@@ -20,7 +20,5 @@
 <a href="https://instagram.com/ednaldo_cordeiro_" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-ednaldo_cordeiro_-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://linkedin.com" target="_blank">
-  <img alt="Custom badge" src="https://img.shields.io/-ednaldo_cordeiro_-05122A?style=flat&logo=linkedin">
-</a>
+<a href="https://www.linkedin.com/mwlite/in/ednaldo-cordeiro-28018b1a6" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
