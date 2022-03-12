@@ -16,9 +16,12 @@
   
 ## :person_curly_hair: &nbsp;Social Links
 
-<div align="left" style="background:yellow">
+<div>
 <a href="https://instagram.com/ednaldo_cordeiro_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-ednaldo_cordeiro_-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-Instagram-7F0049?style=for-the-badge&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://www.linkedin.com/mwlite/in/ednaldo-cordeiro-28018b1a6" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<p></p>
+<a href="https://www.linkedin.com/mwlite/in/ednaldo-cordeiro-28018b1a6" target="_blank">
+ <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a> 
 </div>
