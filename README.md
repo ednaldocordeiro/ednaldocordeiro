@@ -12,6 +12,7 @@
   <img align="center" alt="Ed-HTML" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ed-CSS" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ed-REACT" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ed-TYPESCRIPT" height="26" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/react-original.svg">
 </div>
   
 ## :person_curly_hair: &nbsp;Social Links
