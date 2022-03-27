@@ -32,7 +32,7 @@
     <a href="https://www.linkedin.com/mwlite/in/ednaldo-cordeiro-28018b1a6" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-023e8a?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/mwlite/in/ednaldo-cordeiro-28018b1a6" target="_blank">
+    <a href="https://twitter.com/jead896" target="_blank">
      <img src="https://img.shields.io/badge/-Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/>
     </a> 
   </div>
