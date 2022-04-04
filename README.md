@@ -1,9 +1,11 @@
 ## Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ednaldo
-👨🏽‍💻I'm a frontend developer and I'm always looking for better.
 
-🎵I like music, comics and, of course, developing.
+👨🏽‍💻Sou deenvolvedor front-end, sempre procurando ser melhor.
 
-💻I intend to be Full stack, otherwise, know a little about each technology.
+🎵Eu gosto de música, quadrinhos, e claro, desenvolver.
+
+💻Tenho a intenção de ser fullstack, mas estou conhecendo um pouco de cada tecnologia
+
 <div>
   <a href="mailto:ednaldocordeiro2017@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
