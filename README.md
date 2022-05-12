@@ -28,7 +28,7 @@
   <img align="center" alt="Ed-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Ed-REACT"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Ed-TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="Ed-GRAPHQL" src="https://img.shields.io/badge/GraphQL-F53997?style=for-the-badge&logo=GraphQL&logoColor=white">
+<!--   <img align="center" alt="Ed-GRAPHQL" src="https://img.shields.io/badge/GraphQL-F53997?style=for-the-badge&logo=GraphQL&logoColor=white"> -->
   <img align="center" alt="Ed-REACTROUTER" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
 </div>
 
