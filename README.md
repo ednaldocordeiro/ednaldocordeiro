@@ -1,4 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou Ednaldo
+## Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou Ednaldo
 
 👨🏽‍💻Sou deenvolvedor front-end, sempre procurando ser melhor.
 
