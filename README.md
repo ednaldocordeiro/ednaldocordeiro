@@ -17,8 +17,8 @@
 <br>
 <div>
   <a href="https://github.com/Ednaldo-byte">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ednaldo-byte&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ednaldo-byte&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ednaldocordeiro&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ednaldocordeiro&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
 ## 🛠 &nbsp;Tech Stack
