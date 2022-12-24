@@ -1,10 +1,10 @@
 ## Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou Ednaldo
 
-👨🏽‍💻Sou deenvolvedor front-end, sempre procurando ser melhor.
+👨🏽‍💻 Sou deenvolvedor front-end, sempre procurando ser melhor.
 
-🎵Eu gosto de música, quadrinhos, e claro, desenvolver.
+🎵 Eu gosto de música, quadrinhos, e claro, programar.
 
-💻Tenho a intenção de ser fullstack, mas estou conhecendo um pouco de cada tecnologia
+💻 Tenho a intenção de ser fullstack, mas estou conhecendo um pouco de cada tecnologia
 
 <div>
   <a href="mailto:ednaldocordeiro2017@gmail.com">
@@ -30,6 +30,9 @@
   <img align="center" alt="Ed-TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <!--   <img align="center" alt="Ed-GRAPHQL" src="https://img.shields.io/badge/GraphQL-F53997?style=for-the-badge&logo=GraphQL&logoColor=white"> -->
   <img align="center" alt="Ed-REACTROUTER" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+  <img align="center" alt="Ed-REACTROUTER" src="https://img.shields.io/badge/Prismic-fefefe?style=for-the-badge&logo=prismic&logoColor=5163BA">
+  <img align="center" alt="Ed-REACTROUTER" src="https://img.shields.io/badge/nextjs-fafafa?style=for-the-badge&logo=next.js&logoColor=000">\
+  <img align="center" alt="Ed-REACTROUTER" src="https://img.shields.io/badge/styled%20components-E4405F?style=for-the-badge&logo=styled%20components&logoColor=fff">
 </div>
 
 ## :person_curly_hair: &nbsp;Social Links
