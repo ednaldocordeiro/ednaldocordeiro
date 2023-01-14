@@ -1,6 +1,6 @@
 ## Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou Ednaldo
 
-👨🏽‍💻 Sou deenvolvedor front-end (Web e Mobile), sempre procurando ser melhor.
+👨🏽‍💻 Atualmente sou estagiário front-end (Web e Mobile), sempre procurando ser melhor.
 
 🎵 Eu gosto de música, quadrinhos, e claro, programar.
 
