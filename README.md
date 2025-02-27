@@ -1,12 +1,6 @@
 ## Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, sou Ednaldo
 
-👨🏽‍💻 Atualmente sou estagiário front-end (Web e Mobile), sempre procurando ser melhor.
-
-🎵 Eu gosto de música, quadrinhos, e claro, programar.
-
-💻 Tenho a intenção de ser fullstack, mas estou conhecendo um pouco de cada tecnologia
-
-Estgiário na Tracking Trade
+Dev Jr na Tracking Trade
 
 <div>
   <a href="mailto:ednaldocordeiro2017@gmail.com">
